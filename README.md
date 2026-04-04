@@ -16,7 +16,7 @@ Currently working on:
 * scalable migration systems (PrestaShop → Shopify)
 * automation for product feeds (XML / CSV)
 * backend-heavy solutions with real business logic
-
+* sudoku-app in flutter
 ---
 
 ## 🛠 Tech Stack
