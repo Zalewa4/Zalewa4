@@ -44,7 +44,6 @@ Currently working on:
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge\&logo=shopify\&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge\&logo=prestashop\&logoColor=white)
 ![Shoper](https://img.shields.io/badge/Shoper-E60023?style=for-the-badge)
 
 ---
@@ -55,15 +54,10 @@ Currently working on:
 
 ---
 
-## 📈 GitHub Stats
-
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zalewa4\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
-* GitHub: https://github.com/Zalewa4
+* 📧 Email: [zalewa4444@gmail.com](mailto:zalewa4444@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/zalewa/
 
 ---
 
