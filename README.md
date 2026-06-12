@@ -1,37 +1,42 @@
+<div align="center">
+
 # Adrian Zalewski
 
 **Full-stack developer focused on e-commerce systems, automation and practical business software.**
 
-I build tools that solve real operational problems: migrations, product feed automation, custom CMS/e-commerce features, API integrations and backend-heavy workflows.
+I build backend-heavy tools for real operations: migrations, product feed automation, custom CMS/e-commerce features, API integrations and admin workflows that reduce manual work.
 
 [![Email](https://img.shields.io/badge/Email-zalewa4444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalewa4444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian%20Zalewski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zalewa/)
 
+</div>
+
 ---
 
-## Recruiter Snapshot
+## Snapshot
 
-- 5+ years of experience building commercial web and e-commerce solutions.
-- Strongest in PHP, JavaScript, WordPress, Shopify, MySQL/MariaDB and REST API integrations.
-- Comfortable with messy legacy systems, undocumented data, migrations and business-specific logic.
-- Focused on tools that reduce manual work, improve data flow and survive real production edge cases.
+| Experience | Strongest Areas | Working Style |
+| :--- | :--- | :--- |
+| 5+ years building commercial web and e-commerce solutions | PHP, JavaScript, WordPress, Shopify, MySQL/MariaDB, REST APIs | Practical, production-minded and comfortable with legacy systems |
 
 ---
 
 ## What I Work On
 
-- **E-commerce migrations**: PrestaShop to Shopify, data mapping, cleanup and import tooling.
-- **Product automation**: XML/CSV feeds, product imports/exports, inventory and catalog workflows.
-- **Custom CMS/e-commerce features**: WordPress, WooCommerce, Shopify and Shoper implementations.
-- **Backend systems**: PHP services, database logic, admin tools and API-based integrations.
-- **Frontend interfaces**: practical UI for dashboards, forms, landing pages and business workflows.
-- **Mobile experiments**: Flutter apps, including a Sudoku project.
+| Area | What I usually solve |
+| :--- | :--- |
+| **E-commerce migrations** | PrestaShop to Shopify, data mapping, cleanup and import tooling |
+| **Product automation** | XML/CSV feeds, product imports/exports, inventory and catalog workflows |
+| **Custom CMS/e-commerce features** | WordPress, WooCommerce, Shopify and Shoper implementations |
+| **Backend systems** | PHP services, database logic, admin tools and API-based integrations |
+| **Frontend interfaces** | Practical UI for dashboards, forms, landing pages and business workflows |
+| **Mobile experiments** | Flutter apps, including a Sudoku project |
 
 ---
 
 ## Tech Stack
 
-### Core
+**Core**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,7 +44,7 @@ I build tools that solve real operational problems: migrations, product feed aut
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Web & E-commerce
+**Web & E-commerce**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
@@ -47,22 +52,25 @@ I build tools that solve real operational problems: migrations, product feed aut
 ![Shoper](https://img.shields.io/badge/Shoper-E60023?style=flat-square)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 
-### Frontend
+**Frontend & Mobile**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Mobile
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
 ## GitHub Activity
 
-![Adrian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zalewa4&theme=github-compact&hide_border=true&area=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zalewa4&theme=transparent&hide_border=true&border_radius=8&card_width=720&ring=2563EB&fire=F97316&currStreakNum=111827&sideNums=111827&currStreakLabel=4B5563&sideLabels=4B5563&dates=6B7280&excludeDaysLabel=9CA3AF)](https://git.io/streak-stats)
+
+![Adrian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zalewa4&theme=github-compact&hide_border=true&area=true&radius=8)
+
+</div>
 
 ---
 
