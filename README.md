@@ -9,6 +9,8 @@ I build backend-heavy tools for real operations: migrations, product feed automa
 [![Email](https://img.shields.io/badge/Email-zalewa4444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalewa4444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian%20Zalewski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zalewa/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Zalewa4&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 </div>
 
 ---
@@ -66,7 +68,7 @@ I build backend-heavy tools for real operations: migrations, product feed automa
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zalewa4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zalewa4&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=39D353)](https://git.io/streak-stats)
 
 ![Adrian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zalewa4&theme=github-compact&hide_border=true&area=true&radius=8)
 
