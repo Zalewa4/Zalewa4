@@ -66,7 +66,7 @@ I build backend-heavy tools for real operations: migrations, product feed automa
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zalewa4&theme=transparent&hide_border=true&border_radius=8&card_width=720&ring=2563EB&fire=F97316&currStreakNum=111827&sideNums=111827&currStreakLabel=4B5563&sideLabels=4B5563&dates=6B7280&excludeDaysLabel=9CA3AF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zalewa4)](https://git.io/streak-stats)
 
 ![Adrian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zalewa4&theme=github-compact&hide_border=true&area=true&radius=8)
 
